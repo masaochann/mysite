@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />		<title>まどそふと</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link href="/infomation/index.rss" type="application/rss+xml" rel="alternate" title="まどそふと新着 RSS 2.0" />
+
+<link rel="stylesheet" type="text/css" href="/theme/madosoft/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/theme/madosoft/css/bubble.css" />
+<link rel="stylesheet" type="text/css" href="/theme/madosoft/css/flexslider.css" />
+<link rel="stylesheet" type="text/css" href="/theme/madosoft/css/colorbox/colorbox.css" />
+
+<script type="text/javascript" src="/js/admin/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/js/admin/functions.js"></script>
+<script type="text/javascript" src="/theme/madosoft/js/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="/theme/madosoft/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="/theme/madosoft/js/jquery.colorbox-min-1.4.5.js"></script>
+<script type="text/javascript" src="/theme/madosoft/js/velocity.js"></script>
+<script type="text/javascript" src="/theme/madosoft/js/flexslider.js"></script>
+<script type="text/javascript" src="/theme/madosoft/js/bubble.js"></script>
+<script type="text/javascript" src="/theme/madosoft/js/common.js"></script>
+
+
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-38779003-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+</head>
+<body>
+
+<div class="field"></div>
+<div id="main">
+
+<!--header-->
+<div id="header_base">
+<div id="header" class="shadow">
+<div id="header_menu">
+<div id="header_logo">
+<a href="/"><img src="/theme/madosoft/img/header_brandlogo.png" alt="" /></a>
+<div id="header_submenu">
+<a href="/contact"><img src="/theme/madosoft/img/header_submenu_contact.png" alt="" /></a>
+<a href="/support"><img src="/theme/madosoft/img/header_submenu_support.png" alt="" /></a>
+<a href="/about"><img src="/theme/madosoft/img/header_submenu_about.png" alt="" /></a>
+</div>
+</div>
+<ul>
+<li class="on"><span></span><p></p><a href="/"><img src="/theme/madosoft/img/header_menu_top.png" alt="" /></a></li>
+<li class="products"><span></span><p></p><a href="/products"><img src="/theme/madosoft/img/header_menu_products.png" alt="" /></a></li>
+<li class="webshop"><span></span><p></p><a href="/webshop"><img src="/theme/madosoft/img/header_menu_webshop.png" alt="" /></a></li>
+<li class="blog"><span></span><p></p><a href="/service"><img src="/theme/madosoft/img/header_menu_service.png" alt="" /></a></li>
+<li class="event"><span></span><p></p><a href="/event"><img src="/theme/madosoft/img/header_menu_event.png" alt="" /></a></li>
+<li><span></span><p></p><a href="/recruit"><img src="/theme/madosoft/img/header_menu_recruit.png" alt="" /></a></li>
+<li class="goods"><span></span><p></p><a href="/support"><img src="/theme/madosoft/img/header_menu_support.png" alt="" /></a></li>
+
+<li><a></a></li>
+
+
+</ul>
+</div>
+</div>
+</div>
+
+<!--main contents-->
+<div id="contents">
+
+<!-- BaserPageTagBegin -->
+<!-- BaserPageTagEnd -->
+
+<a href="http://madosoft.net/hamidashi/"><img align="" alt="200427_ハミクリ_トップ.jpg" src="/files/uploads/200427_ハミクリ_トップ.jpg" /></a><!--
+<div class="mar20" id="top_superpickup">
+<dl class="shadow">
+<dt>2016/11/11～2016/11/18</dt>
+<dd><font class="blue">NEW!</font> <a class="alpha" href="http://store.shopping.yahoo.co.jp/animate-cafe/wghi-cake-03.html" target="_blank">【通販】ワガママハイスペック「鳴海兎亜バースデーキャラクターケーキ」好評予約受付中！</a></dd>
+</dl>
+
+<dl class="shadow">
+<dt>2016/11/11～2016/11/28</dt>
+<dd><font class="blue">NEW!</font> <a class="alpha" href="https://www.ec-order.com/madosoft/shop/catalog/110/MCG0000512" target="_blank">【通販】ワガママハイスペックオンリーショップ「桜翠学園購買部事後通販」開催決定！</a></dd>
+</dl>
+</div>
+-->
+<!--left-->
+<div class="mar30"></div>
+<div id="left">
+
+<!--infomation-->
+<div class="common_box shadow">
+<div class="common_cap"><img src="/theme/madosoft/img/common_cap_infomation.png" alt="" /></div>
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/584"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/08/07</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/584">『ハミダシクリエイティブ』フォロー＆RTキャンペーン第4弾開催！</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">ご好評頂きましたツイッターフォロー＆RTキャンペーン、第4弾がスタートしました！<br />
+<a href="https://twitter.com/madostaff/status/1291726696530366465" target="_blank"><img align="" alt="banner.png" src="/files/uploads/banner__3.png" style="width: 500px;" /></a><br />
+<br />
+参加方法は、まどそふとのツイッターアカウント(@madostaff)をフォロー＆<a href="https://twitter.com/madostaff/status/1291726696530366465" target="_blank">該当の呟き</a>をRTするだけ！<br />
+今回の景品は「宇都宮つみれ先生直筆サイン入りハミダシクリエイティブ キャンパスアート」です！<br />
+応募期間は9/7(月）まで！是非ご参加下さい！<br />
+<img align="" alt="twitterB.png" src="/files/uploads/twitterB.png" style="width: 500px;" /></div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="『ハミダシクリエイティブ』フォロー＆RTキャンペーン第4弾開催！ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/584" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/584" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/583"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/07/30</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/583">OPフルバージョン期間限定公開中！</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">『ハミダシクリエイティブ』OP『Unreal Creation!』の<br />
+フルバージョンとoffボーカルバージョンを<br />
+Youtubeに期間限定で公開しました！<br />
+offボーカルは是非歌ってみてくださいね！<br />
+<br />
+<a href="https://youtu.be/GD-ZqpHVMHY" target="_blank">フルバージョン</a><br />
+<a href="https://youtu.be/PX95Qs6379g" target="_blank">offボーカルバージョン</a><br />
+<br />
+<img align="" alt="OP_on.jpg" src="/files/uploads/OP_on.jpg" style="width: 500px;" /><br />
+<br />
+&nbsp;</div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="OPフルバージョン期間限定公開中！ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/583" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/583" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/582"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/07/24</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/582">『ハミダシクリエイティブ』ご予約大感謝キャンペーン開催決定！</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">7/31(金)より対象の店舗様・通販サイト様で<br />
+「ハミダシクリエイティブ」を新規でご予約、もしくは既にご予約のお客様を対象に<br />
+オリジナルクリアファイルをプレゼント致します！<br />
+<img align="" alt="ハミダシクリエイティブ_ご予約大感謝キャンペーン.jpg" src="/files/uploads/ハミダシクリエイティブ_ご予約大感謝キャンペーン.jpg" style="width: 500px;" /></div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="『ハミダシクリエイティブ』ご予約大感謝キャンペーン開催決定！ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/582" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/582" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/581"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/07/08</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/581">生放送「初出しクリエイティブ」のおしらせ</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">7/10（金）20：00よりYoutubeにて生放送を行います！<br />
+最新作「ハミダシクリエイティブ」のサブキャラクターを初出しでご紹介しちゃいます！<br />
+<br />
+<span class="css-901oao css-16my406 r-1tl8opc r-ad9z0x r-bcqeeo r-qvutc0" style="border: 0px solid black; box-sizing: border-box; color: rgb(20, 23, 26); display: inline; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 15px; line-height: 1.3125; font-family: &quot;Segoe UI&quot;, Meiryo, system-ui, -apple-system, BlinkMacSystemFont, sans-serif; margin: 0px; padding: 0px; white-space: pre-wrap; overflow-wrap: break-word; min-width: 0px; background-color: rgb(245, 248, 250);">＜待機所は<a href="https://youtu.be/IcnTDMr0x3E" target="_blank">こちら</a>＞</span><a class="r-1n1174f r-1loqt21 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0 css-4rbku5 css-18t94o4 css-901oao css-16my406" data-focusable="true" dir="ltr" href="https://t.co/SWNNkMHZMU?amp=1" rel=" noopener noreferrer" role="link" style="background-color: rgb(245, 248, 250); color: rgb(27, 149, 224); font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 15px; line-height: 1.3125; font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Ubuntu, &quot;Helvetica Neue&quot;, sans-serif; list-style: none; margin: 0px; text-decoration-line: none; cursor: pointer; border: 0px solid black; box-sizing: border-box; display: inline; padding: 0px; white-space: pre-wrap; overflow-wrap: break-word; min-width: 0px;" target="_blank" title="https://youtu.be/IcnTDMr0x3E"><span aria-hidden="true" class="css-901oao css-16my406 r-1tl8opc r-hiw28u r-ad9z0x r-bcqeeo r-qvutc0" style="border: 0px solid black; box-sizing: border-box; color: inherit; display: inline; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 0px; line-height: 1.3125; font-family: &quot;Segoe UI&quot;, Meiryo, system-ui, -apple-system, BlinkMacSystemFont, sans-serif; margin: 0px; padding: 0px; white-space: inherit; overflow-wrap: break-word; min-width: 0px;">https://</span></a><br />
+<br />
+<a href="https://marshmallow-qa.com/madostaff?utm_medium=url_text&amp;utm_source=promotion" target="_blank">マシュマロ</a>でのご質問も答えられる範囲で放送内にてお返事します！<br />
+<span class="css-901oao css-16my406 r-1tl8opc r-ad9z0x r-bcqeeo r-qvutc0" style="border: 0px solid black; box-sizing: border-box; color: rgb(20, 23, 26); display: inline; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 15px; line-height: 1.3125; font-family: &quot;Segoe UI&quot;, Meiryo, system-ui, -apple-system, BlinkMacSystemFont, sans-serif; margin: 0px; padding: 0px; white-space: pre-wrap; overflow-wrap: break-word; min-width: 0px; background-color: rgb(245, 248, 250);"><a href="/files/uploads/サムネ02.jpg" rel="colorbox" title="サムネ02.jpg"><img align="" alt="サムネ02.jpg" src="/files/uploads/サムネ02.jpg" style="width: 500px;" /></a></span></div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="生放送「初出しクリエイティブ」のおしらせ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/581" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/581" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/580"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/06/26</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/580">『ハミダシクリエイティブ』フォロー＆RTキャンペーン第3弾開催！</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">ご好評頂きましたツイッターフォロー＆RTキャンペーンの第3弾がスタートしました！<br />
+<a href="https://twitter.com/madostaff/status/1276168393670918144" target="_blank"><img align="" alt="banner.png" src="/files/uploads/banner__2.png" style="width: 500px;" /></a><br />
+<br />
+参加方法は、まどそふとのツイッターアカウント(@madostaff)をフォロー＆<a href="https://twitter.com/madostaff/status/1276168393670918144" target="_blank">該当の呟き</a>をRTするだけ！<br />
+今回の景品は「宇都宮つみれ先生直筆サイン入りハミダシクリエイティブ キービジュアルアクリルパネル」です！<br />
+応募期間は6/26（金）～7/30(木）まで！是非ご参加下さい！<br />
+<a href="/files/uploads/twitter.png" rel="colorbox" title="twitter.png"><img align="" alt="twitter.png" src="/files/uploads/twitter.png" style="width: 500px;" /></a></div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="『ハミダシクリエイティブ』フォロー＆RTキャンペーン第3弾開催！ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/580" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/580" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/579"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/06/18</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/579">【初情報だよ！？生放送】のお知らせ</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">6/19(金) 20時よりYoutubeにてまどそふと生放送を行います！<br />
+今回は皆様お待ちかねの「ハミダシクリエイティブ」の新情報をお届け・・！？<br />
+<br />
+トーク内容はいつものゆる～い形なので、お気軽に御覧ください！<br />
+<br />
+＜<a href="https://youtu.be/9uCTPdHF96o" target="_blank">待機所はコチラ</a>です＞&nbsp;<br />
+<a href="https://youtu.be/9uCTPdHF96o" target="_blank"><img align="" alt="サムネ02.jpg" src="/files/uploads/サムネ02.jpg" style="width: 500px;" /></a><br />
+<br />
+<br />
+&nbsp;</div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="【初情報だよ！？生放送】のお知らせ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/579" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/579" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/578"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/06/17</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/578">『ワガママハイスペック Switch版発売決定！』</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">宇都宮つみれ原画タイトル「ワガママハイスペック」が<br />
+遂にNintendo Switchソフトとして発売となります！<br />
+発売日は9月24日(木）に決定！<br />
+予約開始は明日6月18日(木)からとなります！<br />
+各ショップ様での購入特典絵柄は随時公開していきますのでお楽しみに！<br />
+<a href="http://imel.co.jp/wagahigh/" target="_blank"><img align="" alt="wagahigh_ogp.jpg" src="/files/uploads/wagahigh_ogp.jpg" style="width: 500px;" /></a><br />
+※内容はPS Vita版と同一のものとなります</div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="『ワガママハイスペック Switch版発売決定！』 - まどそふと公式サイト / ワガママハイスペック公式サイト" data-url="http://madosoft.net/infomation/archives/578" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/578" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%AF%E3%82%AC%E3%83%8F%E3%82%A4">ワガハイ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/577"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/06/12</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/577">第1回発売前人気投票 結果発表！</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">『ハミダシクリエイティブ』人気投票にたくさんのご投票いただきありがとうございました！<br />
+気になる結果は<a href="http://madosoft.net/hamidashi/news/448">コチラ</a>から！<br />
+<a href="http://madosoft.net/hamidashi/news/448"><img align="" alt="banner2x_sample.png" src="/files/uploads/banner2x_sample.png" style="width: 500px;" /></a></div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="第1回発売前人気投票 結果発表！ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/577" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/577" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/576"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/05/29</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/576">『ハミダシクリエイティブ』本日予約開始！</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">大変お待たせ致しました！<br />
+まどそふと最新作 『ハミダシクリエイティブ』<br />
+本日より予約受付開始です！<br />
+<br />
+発売日は9/25(金）となります！<br />
+皆様のご予約、お待ちしております！<br />
+<a href="http://madosoft.net/hamidashi/"><img align="" alt="200427_ハミクリ_tw掲載.jpg" src="/files/uploads/200427_ハミクリ_tw掲載.jpg" style="width: 500px;" /></a><br />
+<br />
+<br />
+また最新作「ハミダシクリエイティブ」の予約開始を記念して、<br />
+公式通販にて過去のまどそふと作品がなんと50％offで購入できます！<br />
+5/29（金）～31（日）の3日間限定となるオトクなキャンペーン、<br />
+『ハミダシクリエイティブ』『ハミダシクリエイティブ ボーカルコレクション』を除く全商品が対称です！<br />
+ハミクリ発売まで待てない！という方、是非この機会に過去作もプレイしてみてくださいね！<br />
+<br />
+&rarr;通販ページは<a href="http://ec-russell.jp/mado/">コチラ</a></div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="『ハミダシクリエイティブ』本日予約開始！ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/576" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/576" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--infoloop-->
+<div class="info_box">
+<div class="info_thum alpha"><a href="/infomation/archives/572"><img src="/theme/madosoft/img/eyecatch_noimage.jpg" class="img-eye-catch" alt="" /></a></div>
+<div class="info_main">
+<font class="info_data">2020/05/29</font><br />
+<a class="info_title" href="./"><a href="/infomation/archives/572">『ハミダシクリエイティブ』フォロー＆RTキャンペーン第2弾開催！</a></a>
+<div class="info_text">
+<div class="post-body"></div><div id="post-detail">ご好評頂きましたツイッターフォロー＆RTキャンペーンの第2弾がスタートしました！<br />
+<a href="http://madosoft.net/hamidashi/news/304"><img align="" alt="banner_s.png" src="/files/uploads/banner_s.png" /></a><br />
+<br />
+参加方法は、まどそふとのツイッターアカウント(@madostaff)をフォロー＆該当の呟きをRTするだけ！<br />
+今回の景品は「宇都宮つみれ先生直筆サイン入りハミダシクリエイティブ キャラスマホケース」です！<br />
+応募期間は5/29（金）～6/25(木）まで！是非ご参加下さい！<br />
+<img align="" alt="banner2.png" src="/files/uploads/banner2.png" style="width: 500px;" /></div>					</div>
+<div class="info_twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-text="『ハミダシクリエイティブ』フォロー＆RTキャンペーン第2弾開催！ - まどそふと公式サイト / ハミクリ公式サイト" data-url="http://madosoft.net/infomation/archives/572" data-lang="ja" data-count="none" data-hashtags="まどそふと">ツイート</a></div>
+<div class="info_more"><a href="/infomation/archives/572" class="box_link"><span></span>VIEW</a></div>
+<div class="info_tag">
+<a href="/infomation/archives/tag/%E3%81%BE%E3%81%A9%E3%81%9D%E3%81%B5%E3%81%A8">まどそふと</a> <a href="/infomation/archives/tag/%E3%83%8F%E3%83%9F%E3%82%AF%E3%83%AA">ハミクリ</a>					</div>
+<br class="clear" />
+</div>
+<br class="clear" />
+</div>
+<!--infoloopend-->
+
+
+<!--tweet active-->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<br />
+</div>
+<div align="center"><a href="./infomation/index/page:2" class="alpha"><img src="/theme/madosoft/img/common_loadarrow.png" alt="" /></a><br /></div>
+
+</div>
+
+<!--side-->
+<div id="side">
+<div class="widget-area widget-area-1">
+
+
+<div class="widget widget-php-template widget-php-template-2">
+<div class="common_box shadow">
+<div class="common_cap"><img src="/theme/madosoft/img/common_cap_pickup.png" alt="" /></a></div>
+<div class="common_bannerset">
+<!--banner_block-->
+<a href="https://imel.co.jp/wagahigh/" target="_blank"><img src="/files/banners/wagahighSWバナー.jpg" alt="ワガママハイスペック　Nintendo Switch版" class="shadow_min alpha"  /></a><br />
+<a href="http://madosoft.net/sofmap_shop"><img src="/files/banners/side_pickup_madoshop__2.png" alt="まどそふとショップinソフマップ" class="shadow_min alpha"  /></a><br />
+<a href="http://madosoft.net/guideline"><img src="/files/banners/banner_guideline__2.jpg" alt="まどそふと著作権ガイドライン" class="shadow_min alpha"  /></a><br />
+<a href="http://madosoft.net/about_itasha"><img src="/files/banners/side_pickup_itasha__2__2.jpg" alt="まどそふと痛車ガイドライン" class="shadow_min alpha"  /></a><br />
+<!--//banner_block END-->
+</div>
+</div>
+<div class="mar30"></div>
+</div>
+
+<div class="widget widget-php-template widget-php-template-4">
+<div class="common_box shadow">
+<div class="common_cap"><img src="/theme/madosoft/img/common_cap_service.png" alt="" /></a></div>
+<div class="common_bannerset">
+<!--banner_block-->
+<a href="https://twitter.com/madostaff" target="_blank"><img src="/files/banners/official_tw__2.jpg" alt="まどそふと公式Twitter" class="shadow_min alpha"  /></a><br />
+<a href="https://www.youtube.com/channel/UCMJhLgUQQl0ZQL23VRlnANw" target="_blank"><img src="/files/banners/official_yt__2.jpg" alt="まどそふと公式Youtube" class="shadow_min alpha"  /></a><br />
+<a href="https://www.pixiv.net/fanbox/creator/17573511" target="_blank"><img src="/files/banners/fanbox_banner.jpg" alt="まどそふとfanbox" class="shadow_min alpha"  /></a><br />
+<a href="https://fantia.jp/mado" target="_blank"><img src="/files/banners/fantia_banner.jpg" alt="まどそふとfantia" class="shadow_min alpha"  /></a><br />
+<a href="https://line.me/R/ti/p/%40quh7453b" target="_blank"><img src="/files/banners/LINE_banner.jpg" alt="まどそふと公式LINEアカウント" class="shadow_min alpha"  /></a><br />
+<a href="http://madosoft.net/user/"><img src="/files/banners/side_pickup_user[1].jpg" alt="" class="shadow_min alpha"  /></a><br />
+<!--//banner_block END-->
+<div style="padding: 0px 10px;">
+</div>
+</div>
+</div>
+<div class="mar30"></div>
+</div>
+
+<div class="widget widget-php-template widget-php-template-1">
+<div class="common_box shadow">
+<div class="common_cap"><img src="/theme/madosoft/img/common_cap_products.png" alt="" /></a></div>
+<div class="common_bannerset">
+<!--banner_block-->
+<a href="http://madosoft.net/hamidashi/"><img src="/files/banners/HC_p_banner.jpg" alt="ハミクリバナー" class="shadow_min alpha"  /></a><br />
+<a href="http://madosoft.net/raspberry/"><img src="/files/banners/ラズキュー_サイドバナー.png" alt="ラズベリーキューブ" class="shadow_min alpha"  /></a><br />
+<a href="http://wagahigh.com/oc/"><img src="/files/banners/pro_min_wagaOC.jpg" alt="ワガママハイスペックOC" class="shadow_min alpha"  /></a><br />
+<a href="http://wagahigh.com/"><img src="/files/banners/pro_min_waga.jpg" alt="" class="shadow_min alpha"  /></a><br />
+<a href="http://madosoft.net/yakimochi/"><img src="/files/banners/pro_min_yaki.jpg" alt="" class="shadow_min alpha"  /></a><br />
+<a href="http://madosoft.net/namaiki/"><img src="/files/banners/pro_min_nama.jpg" alt="" class="shadow_min alpha"  /></a><br />
+<!--//banner_block END-->
+</div>
+</div>
+<div class="mar30"></div></div>		</div>
+</div>
+<br class="clear" />
+
+</div>
+
+
+<!--gototop-->
+<a id="gototop" href="#header_base" class="scroll"></a>
+
+<!--fotter-->
+<div id="fotter">
+<div id="fotter_menu">
+<a href="/">TOP</a> |
+<a href="/products">PRODUCTS</a> |
+<a href="http://ec-russell.jp/mado/" target="_blank">WEBSHOP</a> |
+<a href="/staffblog">BLOG</a> |
+<a href="/goods">GOODS</a> |
+<a href="/event">EVENT</a> |
+<a href="/recruit">RECRUIT</a><br/>
+<font class="min">
+<a href="/contact">CONTACT</a> |
+<a href="/support">SUPPORT</a></font><br />
+<img src="/theme/madosoft/img/fotter_copyright.png" alt="" /><br />
+</div>
+</div>
+
+</div>
+
+</body>
+</html>
